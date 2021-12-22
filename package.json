@@ -1,0 +1,26 @@
+{
+  "name": "javascript-bloggsida",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel src/index.html src/pages/blogg.html src/pages/post.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaksandahl/Bloggsida.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaksandahl/Bloggsida/issues"
+  },
+  "homepage": "https://github.com/isaksandahl/Bloggsida#readme",
+  "dependencies": {
+    "parcel": "^2.0.1",
+    "scss": "^0.2.4",
+    "typescript": "^4.5.4"
+  }
+}
